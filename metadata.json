@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Guest Register",
+  "description": "ប្រព័ន្ធចុះឈ្មោះ និងគ្រប់គ្រងភ្ញៀវមង្គលការដ៍ស្រស់ស្អាត (An elegant and responsive system designed to manage and register wedding guests in Khmer with Supabase database integration)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
